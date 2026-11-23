@@ -10,26 +10,22 @@ I'm an iOS developer who builds native apps with **Swift** and **SwiftUI**.
 I started out with Python and web development, then moved fully to iOS and have spent the last year building real products end to end: UI, architecture, backend integration, testing and App Store release
 
 Currently a 4th-year student at **BSUIR** (Belarus's leading tech university)
-<br>
 
 ## Selected work
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Jmix</h3>
-      <p>AI career planner for iPhone. Users describe their day and get career ideas, a 10-step plan and a daily check-in streak. Designed, built and shipped solo</p>
+      <b>Jmix</b><br><br>
+      AI career planner for iPhone. Users describe their day and get career ideas, a 10-step plan and a daily check-in streak. Designed, built and shipped solo<br><br>
       <a href="https://github.com/exth/Jmix">Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Puma</h3>
-      <p>Sneaker shop app with a live Firestore catalog, search and filters, cart, favorites and full auth flow. ViewModels are covered with unit tests through protocol-based mocks</p>
+      <b>Puma</b><br><br>
+      Sneaker shop app with a live Firestore catalog, search and filters, cart, favorites and full auth flow. ViewModels are covered with unit tests through protocol-based mocks<br><br>
       <a href="https://github.com/exth/Puma">Repository</a>
     </td>
   </tr>
 </table>
-
-<br>
 
 ## Toolbox
 
@@ -60,15 +56,13 @@ Currently a 4th-year student at **BSUIR** (Belarus's leading tech university)
 ![Fastlane](https://img.shields.io/badge/Fastlane-57606A?style=flat-square&logo=fastlane&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-57606A?style=flat-square&logo=figma&logoColor=white)
 
-**Principles:** MVVM  ·  MVC  ·  Coordinator  ·  Dependency Injection  ·  SOLID  ·  protocol-oriented design  ·  ARC & memory management<br>
+**Principles:** MVVM  ·  MVC  ·  Coordinator  ·  Dependency Injection  ·  SOLID  ·  protocol-oriented design  ·  ARC & memory management
 
 ## Contact
 
 [![EMAIL](https://img.shields.io/badge/EMAIL-30363D?style=for-the-badge)](mailto:exth331@gmail.com)
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-30363D?style=for-the-badge)](https://t.me/exhxw)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-30363D?style=for-the-badge)](ССЫЛКА_НА_LINKEDIN)
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
