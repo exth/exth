@@ -56,7 +56,7 @@ Currently a 4th-year student at **BSUIR** (Belarus's leading tech university)
 ![Fastlane](https://img.shields.io/badge/Fastlane-57606A?style=flat-square&logo=fastlane&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-57606A?style=flat-square&logo=figma&logoColor=white)
 
-**Engineering:** MVVM  ·  MVC  ·  Coordinator  ·  Dependency Injection  ·  SOLID  ·  POP  ·  ARC
+**Engineering:** MVVM · MVC · Coordinator · Dependency Injection · SOLID · OOP & POP · ARC
 
 
 ## Contact
