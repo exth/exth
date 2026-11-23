@@ -7,9 +7,9 @@
 <br>
 
 I'm an iOS developer who builds native apps with **Swift** and **SwiftUI**.
-I started out with Python and web development, then moved fully to iOS and have spent the last year building real products end to end: UI, architecture, backend integration, testing and App Store release.
+I started out with Python and web development, then moved fully to iOS and have spent the last year building real products end to end: UI, architecture, backend integration, testing and App Store release
 
-Currently a 4th-year student at **BSUIR** (Belarus's leading tech university).
+Currently a 4th-year student at **BSUIR** (Belarus's leading tech university)
 <br>
 
 ## Selected work
@@ -60,10 +60,7 @@ Currently a 4th-year student at **BSUIR** (Belarus's leading tech university).
 ![Fastlane](https://img.shields.io/badge/Fastlane-57606A?style=flat-square&logo=fastlane&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-57606A?style=flat-square&logo=figma&logoColor=white)
 
-**Principles** 
-
-MVVM &emsp;·&emsp; MVC &emsp;·&emsp; Coordinator &emsp;·&emsp; Dependency Injection &emsp;·&emsp; SOLID &emsp;·&emsp; protocol-oriented design &emsp;·&emsp; ARC & memory management
-<br>
+**Principles:** MVVM  ·  MVC  ·  Coordinator  ·  Dependency Injection  ·  SOLID  ·  protocol-oriented design  ·  ARC & memory management<br>
 
 ## Contact
 
