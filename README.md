@@ -16,12 +16,12 @@ Currently a 4th-year student at **BSUIR** (Belarus's leading tech university)
   <tr>
     <td width="50%" valign="top">
       <b>Jmix</b><br><br>
-      AI career planner for iPhone. Users describe their day and get career ideas, a 10-step plan and a daily check-in streak. Designed, built and shipped solo<br><br>
+      AI career planner. Users describe their day and get career ideas, a 10-step plan and a daily check-in streak. Designed, built and shipped solo<br><br>
       <a href="https://github.com/exth/Jmix">Repository</a>
     </td>
     <td width="50%" valign="top">
       <b>Puma</b><br><br>
-      Sneaker shop app with a live Firestore catalog, search and filters, cart, favorites and full auth flow. ViewModels are covered with unit tests through protocol-based mocks<br><br>
+      Sneaker shop app with Firestore catalog, search, cart, favorites & auth. ViewModels are covered with unit tests through protocol-based mocks<br><br>
       <a href="https://github.com/exth/Puma">Repository</a>
     </td>
   </tr>
