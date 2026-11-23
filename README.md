@@ -11,18 +11,6 @@ I started out with Python and web development, then moved fully to iOS and have 
 
 Currently a 4th-year student at **BSUIR** and open to **Junior iOS Developer** roles and internships.
 
-```swift
-struct About {
-    let name      = "Vadim Shut"
-    let role      = "iOS Developer"
-    let location  = "Minsk, Belarus"
-    let education = "BSUIR · Software Engineering · 2023 – 2027"
-    let focus     = ["SwiftUI", "MVVM + Coordinator", "Firebase", "Unit Testing"]
-    let languages = ["Russian", "English (B1)"]
-    let openTo    = ["Junior iOS Developer", "Internship"]
-}
-```
-
 <br>
 
 ## Selected work
