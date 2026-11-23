@@ -24,9 +24,6 @@ Currently a 4th-year student at **BSUIR** (Belarus's leading tech university).
     <td width="50%" valign="top">
       <h3>Puma</h3>
       <p>Sneaker shop app with a live Firestore catalog, search and filters, cart, favorites and full auth flow. ViewModels are covered with unit tests through protocol-based mocks</p>
-      <p>
-        <code>SwiftUI</code> <code>MVVM + Coordinator</code> <code>Firebase</code> <code>Kingfisher</code> <code>XCTest</code>
-      </p>
       <a href="https://github.com/exth/Puma">Repository</a>
     </td>
   </tr>
@@ -65,12 +62,14 @@ Currently a 4th-year student at **BSUIR** (Belarus's leading tech university).
 
 **Principles** 
 
-MVVM  ·  MVC  ·  Coordinator  ·  Dependency Injection  ·  SOLID  ·  protocol-oriented design  ·  ARC & memory management
+MVVM &emsp;·&emsp; MVC &emsp;·&emsp; Coordinator &emsp;·&emsp; Dependency Injection &emsp;·&emsp; SOLID &emsp;·&emsp; protocol-oriented design &emsp;·&emsp; ARC & memory management
 <br>
 
 ## Contact
 
-[Email](mailto:exth331@gmail.com)  ·  [Telegram](https://t.me/exhxw)
+[![EMAIL](https://img.shields.io/badge/EMAIL-30363D?style=for-the-badge)](mailto:exth331@gmail.com)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-30363D?style=for-the-badge)](https://t.me/exhxw)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-30363D?style=for-the-badge)](ССЫЛКА_НА_LINKEDIN)
 
 <br>
 
