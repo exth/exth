@@ -29,7 +29,7 @@ Currently a 4th-year student at **BSUIR** (Belarus's leading tech university)
 
 ## Toolbox
 
-**iOS**
+**iOS*
 
 ![Swift](https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D1117?style=flat-square&logo=swift&logoColor=white)
@@ -64,9 +64,3 @@ Currently a 4th-year student at **BSUIR** (Belarus's leading tech university)
 [![EMAIL](https://img.shields.io/badge/EMAIL-30363D?style=for-the-badge)](mailto:exth331@gmail.com)
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-30363D?style=for-the-badge)](https://t.me/exhxw)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-30363D?style=for-the-badge)](www.linkedin.com/in/vadim-shut-386942451)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
-  <img alt="" src="./assets/footer-light.svg" width="100%">
-</picture>
