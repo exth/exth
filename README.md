@@ -63,4 +63,4 @@ Currently a 4th-year student at **BSUIR** (Belarus's leading tech university)
 
 [![EMAIL](https://img.shields.io/badge/EMAIL-30363D?style=for-the-badge)](mailto:exth331@gmail.com)
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-30363D?style=for-the-badge)](https://t.me/exhxw)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-30363D?style=for-the-badge)](www.linkedin.com/in/vadim-shut-386942451)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-30363D?style=for-the-badge)](www.linkedin.com/in/vadim-shut)
